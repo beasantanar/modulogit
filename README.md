@@ -1,1 +1,1 @@
-Atualizando o README para versionar alterações.
+Atualizando o README.
